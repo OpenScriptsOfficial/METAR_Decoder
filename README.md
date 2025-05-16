@@ -6,6 +6,7 @@ The program works in a loop, allowing new codes to be entered before entering "e
 <hr>
 To exit the program, type the command "exit"
 <br>
+
 <hr>
 If you enter an incorrect METAR you will receive the following:
 <br>
